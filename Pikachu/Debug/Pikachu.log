@@ -1,0 +1,29 @@
+﻿  Pikachu.cpp
+E:\Project_C-2plus\Pikachu\console.h(91,10): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Project_C-2plus\Pikachu\console.h(109,7): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(18,9): warning C4101: 'a': unreferenced local variable
+E:\Project_C-2plus\Pikachu\home.h(73,13): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(75,22): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(76,17): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(93,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(94,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(95,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(275,13): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(277,27): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(278,17): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(211,11): warning C4101: 'dk': unreferenced local variable
+E:\Project_C-2plus\Pikachu\home.h(397,26): error C2664: 'void Amination(char *)': cannot convert argument 1 from 'const char [2]' to 'char *'
+E:\Project_C-2plus\Pikachu\home.h(397,23): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\Project_C-2plus\Pikachu\home.h(85,6): message : see declaration of 'Amination'
+E:\Project_C-2plus\Pikachu\home.h(407,13): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(410,27): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(411,17): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Project_C-2plus\Pikachu\home.h(479,18): error C2664: 'void Amination(char *)': cannot convert argument 1 from 'const char [2]' to 'char *'
+E:\Project_C-2plus\Pikachu\home.h(479,15): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\Project_C-2plus\Pikachu\home.h(85,6): message : see declaration of 'Amination'
+E:\Project_C-2plus\Pikachu\home.h(491,22): error C2664: 'void Amination(char *)': cannot convert argument 1 from 'const char [2]' to 'char *'
+E:\Project_C-2plus\Pikachu\home.h(491,19): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\Project_C-2plus\Pikachu\home.h(85,6): message : see declaration of 'Amination'
+E:\Project_C-2plus\Pikachu\home.h(502,26): error C2664: 'void Amination(char *)': cannot convert argument 1 from 'const char [2]' to 'char *'
+E:\Project_C-2plus\Pikachu\home.h(502,23): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\Project_C-2plus\Pikachu\home.h(85,6): message : see declaration of 'Amination'
